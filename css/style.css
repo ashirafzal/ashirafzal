@@ -98,7 +98,7 @@
   
   .section-b {
     position: relative;
-    background-image: url('/dist/img/projects/Netflix/Clone.jpg');
+    background-image: url('img/projects/Netflix/Clone.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
